@@ -1,5 +1,32 @@
 body{
-    background-color: lavender;
-    background-image: url("images/bg.jpeg");
+    background-color:#573877 ;
+    margin-top: 0%;
+  
 
+}
+header{
+    margin-top: 0%;
+    text-align: center;
+    padding-top: 3px;
+    color:white;
+    background-color: rgb(144, 232, 180);
+}
+footer{
+    padding:25px;
+    background-color: whitesmoke;
+}
+.wikky{
+   display: flex;
+}
+.about_me{
+    padding-left: 15%;
+}
+p{
+    color: white;
+}
+h1{
+    margin-bottom: 0%;
+}
+h2{
+    text-align: center;
 }
