@@ -1,0 +1,16 @@
+body{
+    background-color: lavender;
+
+}
+li{
+display: flex;
+float: right;
+font-size:30px;
+}
+a{
+    color: blue;
+    padding-right: 10px;
+}
+a:hover{
+    background-color: yellowgreen;
+}
