@@ -19,14 +19,28 @@ footer{
    display: flex;
 }
 .about_me{
-    padding-left: 15%;
+    padding-left: 5%;
 }
 p{
     color: white;
 }
 h1{
-    margin-bottom: 0%;
+   
 }
 h2{
+   
+}
+footer p{
+    color: black;
     text-align: center;
+}
+a{
+    color:#74B41C ;
+}
+span{
+    color: red;
+}
+div{
+    margin-top: 0%;
+    padding-top: 0%;
 }
