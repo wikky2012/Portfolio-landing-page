@@ -50,3 +50,6 @@ div{
     display: flex;
    justify-content: space-evenly;
 }
+li{
+    font-family: Brush Script MT;
+}
