@@ -2,13 +2,12 @@
 #### Portfolio to sell me to the job market, Friday July 10 2020 ::
 #### By **Wicliffe Ronoh**
 ## Description
-This website is a reflection of myself as an upcoming programmer. It serves to provide viewers with the information concerning me as a new programmer in the field. It also shows the track that i have taken to create some simple projects with their live links. Thisportfolio website containing all about me. It has different section namely name,about,skills, project and contact
+This website is a reflection of myself as an upcoming programmer. It serves to provide viewers with the information concerning me as a new programmer in the field. It also shows the track that i have taken to create some simple projects with their live links. This portfolio website contains all about me. It has different section namely name,about,skills, project and contact
 ## Setup/Installation Requirements
 * Move to the vscode where the coding was done
 * I added the changes as i commit to the git
-
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+## Link to live site on GitHub Pages
+https://wikky2012.github.io/Portfolio-landing-page/
 ## Technologies Used
  * HTML
  * CSS
